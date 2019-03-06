@@ -1,6 +1,6 @@
 /* New.cpp - A program designed to produce light curves for either a spherical planet or one which has filled its Roche Lobe 
 
-Created by John Robert Burton, last modified 03/12/2009 */
+Created by John Robert Burton, last modified 03/12/2017 */
 
 #include <iostream>
 #include <fstream>
